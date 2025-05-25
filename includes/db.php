@@ -1,7 +1,7 @@
 <?php
 
 $host = 'localhost';
-$dbname = 'robdocs';
+$dbname = 'finals-exam-google-docs-clone';
 $username = 'root';
 $password = '';
 
